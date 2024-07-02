@@ -1,0 +1,58 @@
+[
+    {
+        "name": "John Doe",
+        "subject": "Math",
+        "ID": "12345",
+        "email": "john.doe@example.com",
+        "phone": "1234567890",
+        "address": "123 Main St"
+    },
+    {
+        "name": "sachin",
+        "subject": "maths",
+        "ID": "123",
+        "email": "sachin@gmail.com",
+        "phone": "3456789088",
+        "address": "sachin nagar"
+    },
+    {
+        "name": "manish",
+        "subject": "science",
+        "ID": "456",
+        "email": "manish@gmail.com",
+        "phone": "2298765432",
+        "address": "manish nagar"
+    },
+    {
+        "name": "John Zip",
+        "subject": "Social",
+        "ID": "67788",
+        "email": "zip.doe@example.com",
+        "phone": "1278534890",
+        "address": "55 Main St"
+    },
+    {
+        "name": "durgesh",
+        "subject": "dsa",
+        "ID": "90",
+        "email": "duggy@gmail.com",
+        "phone": "8493029323",
+        "address": "ktm"
+    },
+    {
+        "name": "damadol",
+        "subject": "c++",
+        "ID": "45",
+        "email": "young@gmail.com",
+        "phone": "7483928329",
+        "address": "pokhara"
+    },
+    {
+        "name": "jim",
+        "subject": "programming",
+        "ID": "555",
+        "email": "quinjet@gmail.com",
+        "phone": "8392839282",
+        "address": "jim beglin"
+    }
+]

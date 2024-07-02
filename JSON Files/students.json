@@ -1,0 +1,150 @@
+[
+    {
+        "name": "Alice Smith",
+        "age": "15",
+        "grade": "10th",
+        "address": "123 Elm St",
+        "email": "oakwood@gmail.com",
+        "phone": "6352617483",
+        "marks": {
+            "maths": 66,
+            "science": 78
+        }
+    },
+    {
+        "name": "Bob Johnson",
+        "age": "16",
+        "grade": "11th",
+        "address": "456 Oak Ave",
+        "email": "oakw22ood@gmail.com",
+        "phone": "7483920483",
+        "marks": {
+            "maths": 89,
+            "science": 9
+        }
+    },
+    {
+        "name": "Gill Smith",
+        "age": "15",
+        "grade": "10th",
+        "address": "123 Elm St",
+        "email": "oakwood@gm232il.com",
+        "phone": "7483920382",
+        "marks": {
+            "maths": 16,
+            "science": 93
+        }
+    },
+    {
+        "name": "Jim Johnson",
+        "age": "16",
+        "grade": "11th",
+        "address": "456 Oak Ave",
+        "email": "help@gmail.com",
+        "phone": "3434294953",
+        "marks": {
+            "maths": 14,
+            "science": 63
+        }
+    },
+    {
+        "name": "benben",
+        "age": "21",
+        "grade": "12th",
+        "roll_number": "12",
+        "email": "happyhappy@gmail.com",
+        "phone": "1234567890",
+        "marks": {
+            "maths": 50,
+            "science": 70
+        },
+        "address": "123 Main St"
+    },
+    {
+        "name": "bent",
+        "age": "34",
+        "grade": "5th",
+        "roll_number": "43",
+        "email": "ping@gmail.com",
+        "phone": "3829302932",
+        "marks": {
+            "maths": 32,
+            "science": 43
+        },
+        "address": "sankhu"
+    },
+    {
+        "name": "lost",
+        "age": "67",
+        "grade": "8th",
+        "roll_number": "56",
+        "email": "yipee@gmail.com",
+        "phone": "9837293726",
+        "marks": {
+            "maths": 45,
+            "science": 12
+        },
+        "address": "tartar"
+    },
+    {
+        "name": "hippo",
+        "age": "67",
+        "grade": "7th",
+        "roll_number": "88",
+        "email": "type@gmail.com",
+        "phone": "4938294920",
+        "marks": {
+            "maths": 56,
+            "science": 34
+        },
+        "address": "gogo"
+    },
+    {
+        "name": "pip",
+        "age": "22",
+        "roll_number": "77",
+        "email": "zest@gmail.com",
+        "phone": "8337283927",
+        "marks": {
+            "maths": "67",
+            "science": "23"
+        },
+        "address": "123 Main St"
+    },
+    {
+        "name": "benben",
+        "roll_number": "18",
+        "age": "15",
+        "email": "zippyzippy@gmail.com",
+        "phone": "4536278490",
+        "marks": {
+            "maths": "99",
+            "science": "90"
+        },
+        "address": "123 Main St"
+    },
+    {
+        "name": "ramesh",
+        "roll_number": "33",
+        "age": "22",
+        "email": "ramesh@gmail.com",
+        "phone": "8392838328",
+        "marks": {
+            "maths": "78",
+            "science": "89"
+        },
+        "address": "333 Sub St"
+    },
+    {
+        "name": "manav",
+        "roll_number": "39",
+        "age": "99",
+        "email": "zaza@gmail.com",
+        "phone": "7382918292",
+        "marks": {
+            "maths": "56",
+            "science": "34"
+        },
+        "address": "999 Main Lane"
+    }
+]
